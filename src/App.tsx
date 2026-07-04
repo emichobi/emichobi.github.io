@@ -112,7 +112,7 @@ const coreStrengths = [
   {
     title: 'Data Science, Machine Learning & AI',
     details:
-      'Designing and deploying AI solutions, working with large datasets, applying exploratory data analysis and statistical methods, fine-tuning models, and handling evaluation, optimization, deployment, and integration with enterprise systems.',
+      'Developing and evaluating AI solutions, working with large datasets, applying exploratory data analysis and statistical methods, and supporting deployment and integration with enterprise systems.',
   },
   {
     title: 'Analytics & BI',
@@ -127,7 +127,7 @@ const coreStrengths = [
   {
     title: 'Natural Language Processing & Responsible AI',
     details:
-      'Building NLP-enabled solutions, designing AI systems end to end, implementing practical AI workflows, and promoting ethical, reliable use of AI technologies.',
+      'Working with NLP, text mining, prompt design, LLM evaluation, and practical AI workflows while supporting reliable use of AI technologies.',
   },
   {
     title: 'Monitoring & Operations',
