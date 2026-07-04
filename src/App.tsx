@@ -9,11 +9,11 @@ const metrics = [
 
 const highlights = [
   {
-    title: 'CAVIA Enterprise Assistant',
+    title: 'Enterprise AI Solution',
     category: 'AI DELIVERY',
     summary:
-      'Led production readiness for an AWS-based retrieval assistant, strengthening logging, monitoring, documentation, and stakeholder communication.',
-    impact: 'Cloud delivery across API Gateway, Lambda, OpenSearch, and SageMaker',
+      'Helped move an enterprise AI solution from experimentation toward practical business use through research, prototyping, documentation, and stakeholder collaboration.',
+    impact: 'Enterprise AI delivery focused on reliability, usability, and business value',
   },
   {
     title: 'Operational Analytics',
@@ -37,7 +37,7 @@ const careerTimeline = [
     role: 'Data Scientist, Emerging Technologies and Innovation',
     company: 'Federal Government Agency',
     details:
-      'Led production delivery of CAVIA and implemented cloud components across API Gateway, Lambda, OpenSearch, SageMaker endpoints, and CI/CD pipelines.',
+      'Helped deliver an enterprise AI solution, translating experimentation into practical business value through research, prototyping, and stakeholder collaboration.',
   },
   {
     years: '2021 - 2023',
@@ -94,7 +94,7 @@ const skillGroups = [
   },
   {
     title: 'Cloud & Delivery',
-    skills: ['API Gateway', 'Lambda', 'OpenSearch', 'CI/CD'],
+    skills: ['AWS', 'Microsoft Azure', 'Cloud delivery', 'CI/CD'],
   },
   {
     title: 'Telecom Systems',
@@ -194,10 +194,10 @@ function App() {
           </h1>
           <p className="intro">
             Operations-focused technology professional with deep experience in telecom network operations, data-centre
-            service oversight, enterprise data work, and AWS-based AI delivery.
+            service oversight, enterprise data work, and enterprise AI delivery.
           </p>
           <div className="actions">
-            <a className="btn-solid" href="mailto:Obimichael2@gmail.com">
+            <a className="btn-solid" href="mailto:emichaelobi@gmail.com">
               Get In Touch
             </a>
             <a className="btn-ghost" href="#experience">
@@ -323,8 +323,8 @@ function App() {
             support.
           </p>
           <div className="actions">
-            <a className="btn-solid" href="mailto:Obimichael2@gmail.com">
-              Obimichael2@gmail.com
+            <a className="btn-solid" href="mailto:emichaelobi@gmail.com">
+              emichaelobi@gmail.com
             </a>
             <a
               className="btn-ghost"
